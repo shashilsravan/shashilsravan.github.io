@@ -23,7 +23,7 @@ export default function Home({ githubProfileData }) {
 					title: "Shashil Sravan",
 					description:
 						"A passionate Full Stack Web Developer and Mobile App Developer.",
-					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+					image: "https://avatars.githubusercontent.com/u/55411018?v=4",
 					url: "https://shashilsravan.github.io/",
 					keywords: [
 						"Portfolio",
